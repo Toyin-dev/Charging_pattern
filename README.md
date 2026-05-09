@@ -1,7 +1,3 @@
-This data is a synthetic dataset
-Linear regression model has low prediction
-correlation was almost zero
-
 # EV Charging Energy Prediction Deployment
 
 This project deploys a regression model that predicts electric vehicle charging energy consumption in `kWh`.
